@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package lorem;
+
+message Baz
+{
+  int32 someInteger = 1;
+  string someString = 2;
+}
