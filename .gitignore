@@ -1,4 +1,8 @@
 a.out
 
+*.o
+*.a
+*.so
+
 __pycache__/
 *.py[cod]

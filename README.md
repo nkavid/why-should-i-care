@@ -4,4 +4,5 @@
 
 ## Links to subdirectories
 
-[protobuf](protobuf/README.md)
+ * [protobuf](protobuf/README.md)
+ * [c-linkage](c_linkage/README.md)
